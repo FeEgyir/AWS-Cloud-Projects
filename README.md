@@ -140,20 +140,65 @@ To explore any project:
    [scripts](serverless-web-application/scripts/) • 
    [docs](serverless-web-application/docs/)
 
-2. **[Two-Tier Architecture](two-tier-architecture/)**  
-   [infrastructure](two-tier-architecture/infrastructure/) • 
-   [src](two-tier-architecture/src/) • 
-   [scripts](two-tier-architecture/scripts/) • 
-   [docs](two-tier-architecture/docs/)
+2. **[Two-Tier Web Architecture](two-tier-web-architecture/)**  
+   [infrastructure](two-tier-web-architecture/infrastructure/) • 
+   [src](two-tier-web-architecture/src/) • 
+   [scripts](two-tier-web-architecture/scripts/) • 
+   [docs](two-tier-web-architecture/docs/)
 
-3. **[Three-Tier Architecture](three-tier-architecture/)**  
-   [infrastructure](three-tier-architecture/infrastructure/) • 
-   [src](three-tier-architecture/src/) • 
-   [scripts](three-tier-architecture/scripts/) • 
-   [docs](three-tier-architecture/docs/)
+3. **[Three-Tier Web Architecture](three-tier-web-architecture/)**  
+   [infrastructure](three-tier-web-architecture/infrastructure/) • 
+   [src](three-tier-web-architecture/src/) • 
+   [scripts](three-tier-web-architecture/scripts/) • 
+   [docs](three-tier-web-architecture/docs/)
 
-... (pattern continues for all 10 projects)
+4. **[Containerized Microservices](containerized-microservices/)**  
+   [infrastructure](containerized-microservices/infrastructure/) • 
+   [src](containerized-microservices/src/) • 
+   [scripts](containerized-microservices/scripts/) • 
+   [docs](containerized-microservices/docs/)
 
+5. **[Data Processing Pipeline](data-processing-pipeline/)**  
+   [infrastructure](data-processing-pipeline/infrastructure/) • 
+   [src](data-processing-pipeline/src/) • 
+   [scripts](data-processing-pipeline/scripts/) • 
+   [docs](data-processing-pipeline/docs/)
+
+6. **[Disaster Recovery Solution](disaster-recovery-solution/)**  
+   [infrastructure](disaster-recovery-solution/infrastructure/) • 
+   [src](disaster-recovery-solution/src/) • 
+   [scripts](disaster-recovery-solution/scripts/) • 
+   [docs](disaster-recovery-solution/docs/)
+
+7. **[Infrastructure Monitoring](infrastructure-monitoring/)**  
+   [infrastructure](infrastructure-monitoring/infrastructure/) • 
+   [src](infrastructure-monitoring/src/) • 
+   [scripts](infrastructure-monitoring/scripts/) • 
+   [docs](infrastructure-monitoring/docs/)
+
+8. **[Secure Static Website](secure-static-website/)**  
+   [infrastructure](secure-static-website/infrastructure/) • 
+   [src](secure-static-website/src/) • 
+   [scripts](secure-static-website/scripts/) • 
+   [docs](secure-static-website/docs/)
+
+9. **[Hybrid Cloud Connection](hybrid-cloud-connection/)**  
+   [infrastructure](hybrid-cloud-connection/infrastructure/) • 
+   [src](hybrid-cloud-connection/src/) • 
+   [scripts](hybrid-cloud-connection/scripts/) • 
+   [docs](hybrid-cloud-connection/docs/)
+
+10. **[Serverless ETL Process](serverless-etl-process/)**  
+    [infrastructure](serverless-etl-process/infrastructure/) • 
+    [src](serverless-etl-process/src/) • 
+    [scripts](serverless-etl-process/scripts/) • 
+    [docs](serverless-etl-process/docs/)
+
+11. **[Cloud Security Compliance](cloud-security-compliance/)**  
+    [infrastructure](cloud-security-compliance/infrastructure/) • 
+    [src](cloud-security-compliance/src/) • 
+    [scripts](cloud-security-compliance/scripts/) • 
+    [docs](cloud-security-compliance/docs/)
 
 ## Contribution Guidelines
 
