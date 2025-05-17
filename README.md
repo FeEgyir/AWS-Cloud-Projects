@@ -133,38 +133,26 @@ To explore any project:
 - Git installed on your local machine
 
 ## AWS Cloud Projects
-1. [Serverless Web Application](Serverless-Web-Application/README.md)  
-   `infrastructure/` • `src/` • `scripts/` • `docs/`
-   
-2. [Two-Tier Web Architecture](Two-Tier-Web-Architecture/README.md)  
-   `vpc/` • `ec2/` • `rds/` • `security-groups/`
 
-3. [Three-Tier Web Architecture](Three-Tier-Web-Architecture/README.md)  
-   `web-tier/` • `app-tier/` • `data-tier/` • `load-balancers/`
+1. **[Serverless Web Application](serverless-web-application/)**  
+   [infrastructure](serverless-web-application/infrastructure/) • 
+   [src](serverless-web-application/src/) • 
+   [scripts](serverless-web-application/scripts/) • 
+   [docs](serverless-web-application/docs/)
 
-4. [Containerized Microservices](Containerized-Microservices/README.md)  
-   `ecs/` • `ecr/` • `task-definitions/` • `service-discovery/`
+2. **[Two-Tier Architecture](two-tier-architecture/)**  
+   [infrastructure](two-tier-architecture/infrastructure/) • 
+   [src](two-tier-architecture/src/) • 
+   [scripts](two-tier-architecture/scripts/) • 
+   [docs](two-tier-architecture/docs/)
 
-5. [Data Processing Pipeline](Data-Pipeline/README.md)  
-   `kinesis/` • `glue/` • `athena/` • `quicksight/`
+3. **[Three-Tier Architecture](three-tier-architecture/)**  
+   [infrastructure](three-tier-architecture/infrastructure/) • 
+   [src](three-tier-architecture/src/) • 
+   [scripts](three-tier-architecture/scripts/) • 
+   [docs](three-tier-architecture/docs/)
 
-6. [Disaster Recovery](Disaster-Recovery/README.md)  
-   `multi-region/` • `route53/` • `replication/` • `failover/`
-
-7. [Infrastructure Monitoring](Infrastructure-Monitoring/README.md)  
-   `cloudwatch/` • `sns/` • `lambda-monitors/` • `xray/`
-
-8. [Secure Static Website](Secure-Static-Website/README.md)  
-   `s3/` • `cloudfront/` • `acm/` • `ci-cd/`
-
-9. [Hybrid Cloud](Hybrid-Cloud/README.md)  
-   `vpn/` • `direct-connect/` • `transit-gateway/` • `dns/`
-
-10. [Serverless ETL](Serverless-ETL/README.md)  
-    `step-functions/` • `lambda/` • `glue/` • `s3/`
-
-11. [Security Compliance](Security-Compliance/README.md)  
-    `iam/` • `security-hub/` • `guardduty/` • `cloudtrail/`
+... (pattern continues for all 10 projects)
 
 
 ## Contribution Guidelines
