@@ -118,3 +118,8 @@ This project implements a **secure, scalable, and highly available two-tier arch
 
 ## Conclusion
 This architecture provides a resilient, secure, and cost-effective solution for high-availability applications. It adheres to AWS best practices and can be extended with additional services like WAF, S3, or Lambda for future enhancements.
+
+## Team Members
+- Rabbi Agyei
+- Akwasi Osei Frimpong
+- Freda Esi Egyir
