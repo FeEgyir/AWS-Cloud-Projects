@@ -14,7 +14,7 @@ This repository contains a collection of hands-on AWS infrastructure projects de
 - Custom domain configuration with Route 53
 - CI/CD pipeline for automated deployments
 
-### 2. Three-Tier Web Architecture
+### 2. Two and Three-Tier Web Architecture
 **Description:** Scalable web application infrastructure with load balancing, auto-scaling, and high availability.  
 **Technologies:** EC2, VPC, ELB, Auto Scaling, RDS, Security Groups  
 **Key Features:**
