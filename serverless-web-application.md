@@ -1,4 +1,4 @@
-# CloudFormation Capstone Project - Group 8
+# Group Capstone Project
 
 ## Project Description
 This project implements a **secure, scalable, and highly available two-tier architecture** on AWS for a Node.js-based Inventory Management Application. The infrastructure leverages core AWS services to ensure fault tolerance, automated scaling, and robust security.
@@ -21,8 +21,8 @@ This project implements a **secure, scalable, and highly available two-tier arch
 ---
 
 ## Architecture Overview
-![Architecture Diagram](https://via.placeholder.com/800x500.png?text=Architecture+Diagram+Placeholder)  
-*Replace with your architecture diagram link.*
+![Architecture Diagram](https://github.com/FeEgyir/AWS-Cloud-Projects/blob/31a737dab6e8ea16bab663a19239ef8834a2f5b4/Project%20Images/Two-Tier%20Arch.png)  
+
 
 ### Components:
 1. **VPC**: 
@@ -89,6 +89,10 @@ This project implements a **secure, scalable, and highly available two-tier arch
 7. **Set Up CloudWatch Alarms**:
    - Create alarms for CPU utilization thresholds (60% for scaling out, 30% for scaling in).
 
+`Architecture Explanation`
+
+https://github.com/user-attachments/assets/61afdcec-4b14-42a4-ad24-dd397b1a8846
+
 ---
 
 ## Validation & Testing
@@ -113,6 +117,11 @@ This project implements a **secure, scalable, and highly available two-tier arch
 - **SSH to Private Instances**: Use the Bastion Host as a jump server.
 - **Unhealthy Instances**: Check EC2 user data scripts to ensure the Node.js service starts on boot.
 - **Database Connectivity**: Verify security group rules and RDS endpoint configuration.
+
+`Infrastructure Demonstration`
+
+https://github.com/user-attachments/assets/e1ff7cd4-faba-47ca-8002-64d38f1d46d8
+
 
 ---
 
